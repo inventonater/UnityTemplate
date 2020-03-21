@@ -64,3 +64,5 @@ crashlytics-build.properties
 *.package
 *.mpk
 .out/
+
+.idea/
