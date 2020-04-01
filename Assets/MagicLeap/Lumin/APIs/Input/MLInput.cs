@@ -24,6 +24,7 @@ namespace UnityEngine.XR.MagicLeap
     /// </summary>
     public partial class MLInput : MLAPISingleton<MLInput>
     {
+        
         #if PLATFORM_LUMIN
         /// <summary>
         /// The unofficial maximum amount of tablets allowed to be connected to the device at once.

@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 05310e6d6dbb0bc42bbd3f3a91d8a37e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Biplane_Joints
+    100004: BiplaneMesh
+    100006: center_mass_jnt
+    100008: l_aileron_jnt
+    100010: l_elevator_jnt
+    100012: l_flap_jnt
+    100014: l_front_wheel_jnt
+    100016: PilotMesh
+    100018: propeller_jnt
+    100020: r_aileron_jnt
+    100022: r_elevator_jnt
+    100024: r_flap_jnt
+    100026: r_front_wheel_jnt
+    100028: rear_wheel_jnt
+    100030: root_jnt
+    100032: rudder_jnt
+    100034: WindshieldMesh
+    100036: BiplaneLights
+    400000: //RootNode
+    400002: Biplane_Joints
+    400004: BiplaneMesh
+    400006: center_mass_jnt
+    400008: l_aileron_jnt
+    400010: l_elevator_jnt
+    400012: l_flap_jnt
+    400014: l_front_wheel_jnt
+    400016: PilotMesh
+    400018: propeller_jnt
+    400020: r_aileron_jnt
+    400022: r_elevator_jnt
+    400024: r_flap_jnt
+    400026: r_front_wheel_jnt
+    400028: rear_wheel_jnt
+    400030: root_jnt
+    400032: rudder_jnt
+    400034: WindshieldMesh
+    400036: BiplaneLights
+    2100000: blinn2
+    2100002: blinn1
+    2100004: lambert1
+    2100006: Avatar_Pilot_002_lambert5
+    4300000: PilotMesh
+    4300002: WindshieldMesh
+    4300004: BiplaneMesh
+    4300006: BiplaneLights
+    9500000: //RootNode
+    13700000: BiplaneMesh
+    13700002: PilotMesh
+    13700004: WindshieldMesh
+    13700006: BiplaneLights
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
