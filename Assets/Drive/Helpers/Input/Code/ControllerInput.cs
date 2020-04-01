@@ -77,15 +77,11 @@ namespace MagicKit
 
         // ------ Private Members ------
 
-        
-        private class MLInputController
-        {
-            
-        }
+
 
         [SerializeField, Tooltip("If true, this transform position & orientation will match the controller.")]
         private bool _updateTransform;
-        private MLInputController _controller;
+        private MLInput.Controller _controller;
         private bool _triggerDown;
         private bool _bumperDown;
         private bool _touchDown;
@@ -190,7 +186,8 @@ namespace MagicKit
 
         private void UpdateBumperState()
         {
-            if (_controller.State.ButtonState[(int)MLInputControllerButton.Bumper] != 0)
+            // if (_controller.State.ButtonState[(int)MLInputControllerButton.Bumper] != 0)
+            if(_controller.IsBumperDown)
             {
                 if (!_bumperDown)
                 {
